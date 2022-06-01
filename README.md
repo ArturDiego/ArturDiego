@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou o Artur Diego!</h1>
-<h3 align="center">Sou um desenvolvedor em formação apaixonado!</h3>
+<h3 align="center">Sou um desenvolvedor em formação apaixonado por tech!</h3>
 
 - 👨‍💻 Desenvolvedor Jr. em formação
 - 📖 Atualmente estou estudando JS, CSS e HTML
