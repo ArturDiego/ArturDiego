@@ -4,6 +4,7 @@
 - 👨‍💻 Desenvolvedor Jr. em formação
 - 📖 Atualmente estou estudando JS, ReactJS, CSS e HTML
 - 🤙 Aberto a colaborações
+- 📧 Para entrar em contato: arturdiegodev@gmail.com
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105228399/171324176-577c5a03-faf2-43f9-b499-fa48777d746f.gif" alt="animated" />
